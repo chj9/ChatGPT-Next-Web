@@ -118,10 +118,10 @@ export function SideBar(props: { className?: string }) {
     >
       <div className={styles["sidebar-header"]} data-tauri-drag-region>
         <div className={styles["sidebar-title"]} data-tauri-drag-region>
-          岸上吧 ChatGPT
+          岸上吧AI学习BOX
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          岸上吧会员学习辅助工具,仅限会员使用,禁止分享,访问码一天一改.如需访问请联系管理员索取访问码
+          岸上吧祝各位同学中秋国庆双节快乐，假期9月28-10月6号期间，GPT-4免费开放体验
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
