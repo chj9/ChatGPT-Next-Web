@@ -121,7 +121,7 @@ export function SideBar(props: { className?: string }) {
           岸上吧AI学习BOX
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          岸上吧祝各位同学中秋国庆双节快乐，假期9月28-10月6号期间，GPT-4（比GPT-3更智能，数据更新的模型）免费开放体验，使用方式为【点击输入栏机器人图标切换】
+          希望该工具能真正帮到您
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
